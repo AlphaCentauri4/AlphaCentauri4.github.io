@@ -340,7 +340,7 @@ ul, ol {
   margin-bottom: 0px;
   margin-left: 0px;
   font-family: var(--font-3);
-  font-weight: 1000;
+/*   font-weight: 1000; */
   /* color: #474747; */
   color: #a8a8a8;
   transition: font-size 0.2s, color 0.3s, margin-left 0.2s;
