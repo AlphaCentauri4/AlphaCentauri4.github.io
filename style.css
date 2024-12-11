@@ -335,11 +335,12 @@ ul, ol {
 
 .nav-tab {
   position: relative;
+  font-family: var(--font-1);
   top: calc(50vh - 120px);
   margin-top: 5px;
   margin-bottom: 0px;
   margin-left: 0px;
-  font-family: 'Roboto', sans-serif;
+/*   font-family: 'Roboto', sans-serif; */
   font-weight: 1000;
   /* color: #474747; */
   color: #a8a8a8;
